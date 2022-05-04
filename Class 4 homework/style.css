@@ -1,0 +1,24 @@
+body {
+    background: lightblue;
+    border: 5px solid lightgreen;
+    margin: 30px;
+    padding: 50px;
+    width: 600px;
+    color: white;
+}
+
+Header {
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    color: lightgreen;
+}
+
+img {
+    height: 300px;
+    float: right;
+}
